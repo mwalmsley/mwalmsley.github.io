@@ -1,3 +1,7 @@
+**Hey - why are you checking out my website code? Take a look at my other repos if you'd like to see code I've written - this is a simple fork of github/personal-website.**
+
+---
+
 # Get started building your personal website
 
 ### Showcase your software development skills
